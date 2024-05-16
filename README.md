@@ -28,5 +28,5 @@ Our goal:
 
 "Furniture Reformers" wants to be your one-stop store for anything about furniture. The initiative helps the community adopt a more sustainable attitude to furniture consumption by supporting appropriate disposal, encouraging furniture reuse, and extending furniture lifespans. Furthermore, it gives consumers the tools and information they need to make wise furniture selections, which empowers them.
 ## See Our Demo Video
-[![Watch the Video Here](/Logo.png)](https://www.youtube.com/watch?v=_kuei1AvIVA)
+[![Watch the Video Here](/Meet The Team.png)](https://www.youtube.com/watch?v=_kuei1AvIVA)
  
